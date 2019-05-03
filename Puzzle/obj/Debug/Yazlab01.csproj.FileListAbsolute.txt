@@ -1,0 +1,22 @@
+C:\Users\mtozc\source\repos\Yazlab01\bin\Debug\Yazlab01.exe.config
+C:\Users\mtozc\source\repos\Yazlab01\bin\Debug\Yazlab01.exe
+C:\Users\mtozc\source\repos\Yazlab01\bin\Debug\Yazlab01.pdb
+C:\Users\mtozc\source\repos\Yazlab01\obj\Debug\Yazlab01.csprojAssemblyReference.cache
+C:\Users\mtozc\source\repos\Yazlab01\obj\Debug\Yazlab01.Properties.Resources.resources
+C:\Users\mtozc\source\repos\Yazlab01\obj\Debug\Yazlab01.csproj.GenerateResource.cache
+C:\Users\mtozc\source\repos\Yazlab01\obj\Debug\Yazlab01.csproj.CoreCompileInputs.cache
+C:\Users\mtozc\source\repos\Yazlab01\obj\Debug\Yazlab01.exe
+C:\Users\mtozc\source\repos\Yazlab01\obj\Debug\Yazlab01.pdb
+C:\Users\mtozc\source\repos\Yazlab01\obj\Debug\Yazlab01.Baslangic.resources
+C:\Users\mtozc\source\repos\Yazlab01\obj\Debug\Yazlab01.Yapboz.resources
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\bin\Debug\Yazlab01.exe.config
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\bin\Debug\Yazlab01.exe
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\bin\Debug\Yazlab01.pdb
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\obj\Debug\Yazlab01.csprojAssemblyReference.cache
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\obj\Debug\Yazlab01.Baslangic.resources
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\obj\Debug\Yazlab01.Properties.Resources.resources
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\obj\Debug\Yazlab01.Yapboz.resources
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\obj\Debug\Yazlab01.csproj.GenerateResource.cache
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\obj\Debug\Yazlab01.csproj.CoreCompileInputs.cache
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\obj\Debug\Yazlab01.exe
+C:\Users\mtozc\Desktop\benim yazlab\Yazlab01\obj\Debug\Yazlab01.pdb
